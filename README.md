@@ -1,6 +1,7 @@
 # URI
-##Lista de Exercícios do URI
-### 1001
+## Lista de Exercícios do URI
+
+- ### 1001 -
 ### 1002
 ### 1003
 ### 1004
